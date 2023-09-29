@@ -1,0 +1,13 @@
+Variable Casing; Sneak Case
+Method name casing; Firt Character Upper Sneak Case
+README.txt file available
+requirement.txt file available
+Maximum 200 line per source code file "comment line included"
+Variable names are meaningful
+Data set must be collection from kaggle with API
+Class name casing; Pascal Case
+Only machine learning and data science application must be done on jupyter notebook other source files are in standard files
+Every class, method, function must have a comment line describing its usage
+Readable and clean code must be written
+Implementation of Exploratory Data Analysis (EDA) processes is mandatory
+indentations and protrusions must be standard when coding
